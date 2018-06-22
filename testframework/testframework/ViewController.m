@@ -23,6 +23,7 @@
 
 - (void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event{
   NSLog(@"%@",[MyFrameworkManager returnTestString]);
+  //李四再次测试stash
 }
 
 - (void)didReceiveMemoryWarning {
