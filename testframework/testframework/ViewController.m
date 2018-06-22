@@ -19,10 +19,12 @@
   //李四测试
   // Do any additional setup after loading the view, typically from a nib.
   //张三测试
+  //李四测试stash
 }
 
 - (void)touchesBegan:(NSSet<UITouch *> *)touches withEvent:(UIEvent *)event{
   NSLog(@"%@",[MyFrameworkManager returnTestString]);
+
   //李四再次测试stash
 }
 
