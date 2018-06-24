@@ -27,6 +27,7 @@
   NSLog(@"%@",[MyFrameworkManager returnTestString]);
 
   //李四再次测试stash
+  //张三提交
 }
 
 - (void)didReceiveMemoryWarning {
